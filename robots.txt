@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jpmi1.github.io/dr-jenn-resources-pdfs/sitemap.xml

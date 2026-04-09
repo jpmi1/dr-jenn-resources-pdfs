@@ -1,0 +1,131 @@
+Dr. Jenn Resource Link Audit
+
+Working links: 18
+Broken links: 9
+Missing/unlinked resources: 6
+
+Working links
+- Weekly Checklist [canva]
+  Source: https://www.canva.com/design/DAE5UnLZaDk/2_4hyygdThGPdKPG33BeEw/view
+  Final: https://www.canva.com/design/DAE5UnLZaDk/2_4hyygdThGPdKPG33BeEw/view
+  Status code: 200
+- Thriving Guide [canva]
+  Source: https://www.canva.com/design/DAFd1wmoco8/EK6vFY9T6H223WWcTFyA5A/view?utm_content=DAFd1wmoco8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+  Final: https://www.canva.com/design/DAFd1wmoco8/EK6vFY9T6H223WWcTFyA5A/view?utm_content=DAFd1wmoco8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+  Status code: 200
+- Breast Owners Guide [canva]
+  Source: https://www.canva.com/design/DAFnODK9EXE/yVzo2kbOjkPYBqpIkWzzmg/view?utm_content=DAFnODK9EXE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+  Final: https://www.canva.com/design/DAFnODK9EXE/yVzo2kbOjkPYBqpIkWzzmg/view?utm_content=DAFnODK9EXE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+  Status code: 200
+- Real Health MD Cookbook [drive]
+  Source: https://drive.google.com/file/d/1kwpILY9k3pJiK2XD9dgHn55oV9F3zxgt/view?usp=sharing
+  Final: https://drive.google.com/file/d/1kwpILY9k3pJiK2XD9dgHn55oV9F3zxgt/view?usp=sharing
+  Status code: 200
+- Safe Supplements [drive]
+  Source: https://drive.google.com/file/d/16lTZIONCdw2oKFmduifYm6W-k2wxjdhK/view?usp=sharing
+  Final: https://drive.google.com/file/d/16lTZIONCdw2oKFmduifYm6W-k2wxjdhK/view?usp=sharing
+  Status code: 200
+- Sleep Guide [drive]
+  Source: https://drive.google.com/file/d/1OJWiOURTLGKsPgUDYX6GUy3D3t5HTNf0/view?usp=sharing
+  Final: https://drive.google.com/file/d/1OJWiOURTLGKsPgUDYX6GUy3D3t5HTNf0/view?usp=sharing
+  Status code: 200
+- Guide to Using Your CGM [canva]
+  Source: https://www.canva.com/design/DAGEfuNuREQ/Wo9-ZWOiZW5aA4wF68qB8w/view?utm_content=DAGEfuNuREQ&utm_campaign=designshare&utm_medium=link&utm_source=editor
+  Final: https://www.canva.com/design/DAGEfuNuREQ/Wo9-ZWOiZW5aA4wF68qB8w/view?utm_content=DAGEfuNuREQ&utm_campaign=designshare&utm_medium=link&utm_source=editor
+  Status code: 200
+- Questions to Ask Your Provider [canva]
+  Source: https://www.canva.com/design/DAGEfqGOP4U/WYW3ORJgQPWs4bi2vf_jxQ/view?utm_content=DAGEfqGOP4U&utm_campaign=designshare&utm_medium=link&utm_source=editor
+  Final: https://www.canva.com/design/DAGEfqGOP4U/WYW3ORJgQPWs4bi2vf_jxQ/view?utm_content=DAGEfqGOP4U&utm_campaign=designshare&utm_medium=link&utm_source=editor
+  Status code: 200
+- Initial Lab Values [canva]
+  Source: https://www.canva.com/design/DAGEfnR7uoQ/mHhsUZsX0gm8oyDg_5D0Nw/view?utm_content=DAGEfnR7uoQ&utm_campaign=designshare&utm_medium=link&utm_source=editor
+  Final: https://www.canva.com/design/DAGEfnR7uoQ/mHhsUZsX0gm8oyDg_5D0Nw/view?utm_content=DAGEfnR7uoQ&utm_campaign=designshare&utm_medium=link&utm_source=editor
+  Status code: 200
+- MRI Protocol [shop]
+  Source: https://shop.realhealthmd.com/mri-with-contrast-protection-protocol.html
+  Final: https://shop.realhealthmd.com/realhealth-bundle012.html
+  Status code: 200
+- Dr. Jenn's Favorite Products [affiliate]
+  Source: https://www.amazon.com/shop/drjennsimmons
+  Final: https://www.amazon.com/shop/drjennsimmons
+  Status code: 200
+- Oura Ring [affiliate]
+  Source: https://spl.it/3U2XVa
+  Final: https://ouraring.com/
+  Status code: 200
+- Prolon [affiliate]
+  Source: https://spl.it/8l5xjT
+  Final: https://spl.it/8l5xjT
+  Status code: 200
+- EWG [reference]
+  Source: https://ewg.org/tapwater
+  Final: http://www.ewg.org/tapwater/
+  Status code: 200
+- Sunlighten Sauna [affiliate]
+  Source: https://get.sunlighten.com/elq9tbu6e7x2
+  Final: https://www.sunlighten.com/partner-savings/?utm_medium=Partner&utm_source=jennsimmons7649&utm_campaign=PartnerStack&pscd=get.sunlighten.com&ps_partner_key=amVubnNpbW1vbnM3NjQ5&ps_xid=EUmqAPSwUWWrDB&gsxid=EUmqAPSwUWWrDB&gspk=amVubnNpbW1vbnM3NjQ5
+  Status code: 200
+- Higher Dose Blanket [affiliate]
+  Source: https://spl.it/rmIKOe
+  Final: https://awin1.com/closedMerchant.html?b=1336029&u=3362549&m=87497&urllink=&afftrack=&originalPath=%2Fr.cfm&source=sas-click
+  Status code: 200
+- Pelvic Floor Store [affiliate]
+  Source: https://pelvicfloorstore.com/
+  Final: https://pelvicfloorstore.com/
+  Status code: 200
+- Magnesium Breakthrough [affiliate]
+  Source: https://spl.it/R6waYV
+  Final: https://spl.it/R6waYV
+  Status code: 200
+
+Broken links
+- Daily Eight [canva]
+  Source: https://www.canva.com/design/DAFcJc8Pwew/P-gJgMTlVpdG5_9aeKnSrg/view?utm_content=DAFcJc8Pwew&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+  Final: https://www.canva.com/design/DAFcJc8Pwew/P-gJgMTlVpdG5_9aeKnSrg/view?utm_content=DAFcJc8Pwew&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+  Status code: 404
+- Radiation Protocol [shop]
+  Source: https://shop.realhealthmd.com/radiation-protection-protocol-1.html
+  Final: https://shop.realhealthmd.com/radiation-protection-protocol-1.html
+  Status code: 404
+- Coffee: My Organo Gold [affiliate]
+  Source: https://drjennsimmons.myorganogold.com/
+  Final: https://drjennsimmons.myorganogold.com/
+  Status code: 403
+- BeautyCounter [affiliate]
+  Source: https://tinyurl.com/drjennbeautycounter
+  Final: https://www.counter.com/jennifersimmons1?goto=/
+  Status code: 404
+- Credo Beauty [affiliate]
+  Source: https://spl.it/tIfGZ1
+  Final: https://credobeauty.com/?utm_source=google&utm_medium=cpc&utm_campaign=Brand_CredoBeautyTerms&gclid=CjwKCAjw8symBhAqEiwAaTA__NND78FM8m8Cay572I4zd-71lOkQ8wZw5xUie5YEa-CRtfUETqVdkhoCZZwQAvD_BwE
+  Status code: 403
+- BeU by Organo [affiliate]
+  Source: https://drjennsimmons.myorganogold.com/
+  Final: https://drjennsimmons.myorganogold.com/
+  Status code: 403
+- Primal Life Organics Dental Detox Program [affiliate]
+  Source: http://tinyurl.com/DrJennprimal
+  Final: https://www.idevaffiliate.com/32863/1444.html
+  Status code: 403
+- The Air Doctor [affiliate]
+  Source: https://spl.it/QWIf2i
+  Final: https://airdoctorpro.com/
+  Status code: 429
+- Queen of Thrones Castor Oil Packs [affiliate]
+  Source: https://shop.queenofthethrones.com/drjennsimmons
+  Final: https://shop.queenofthethrones.com/drjennsimmons
+  Status code: 404
+
+Missing or unlinked resources
+- RO-verse Osmosis System
+  Note: Mentioned in doc but no hyperlink was provided.
+- Berkey Water Filtration System
+  Note: Mentioned in doc but no hyperlink was provided.
+- Buffalo Tallow Soap (no fragrances)
+  Note: Mentioned in doc but no hyperlink was provided.
+- Sun and Moo Co.
+  Note: Mentioned in doc but no hyperlink was provided.
+- Fifty Ten Farms
+  Note: Mentioned in doc but no hyperlink was provided.
+- Think Dirty App
+  Note: Mentioned in doc but no hyperlink was provided.

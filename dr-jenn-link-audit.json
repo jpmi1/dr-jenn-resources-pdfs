@@ -1,0 +1,254 @@
+{
+  "working_links": [
+    {
+      "title": "Weekly Checklist",
+      "category": "canva",
+      "source_url": "https://www.canva.com/design/DAE5UnLZaDk/2_4hyygdThGPdKPG33BeEw/view",
+      "status": "working",
+      "status_code": 200,
+      "final_url": "https://www.canva.com/design/DAE5UnLZaDk/2_4hyygdThGPdKPG33BeEw/view"
+    },
+    {
+      "title": "Thriving Guide",
+      "category": "canva",
+      "source_url": "https://www.canva.com/design/DAFd1wmoco8/EK6vFY9T6H223WWcTFyA5A/view?utm_content=DAFd1wmoco8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+      "status": "working",
+      "status_code": 200,
+      "final_url": "https://www.canva.com/design/DAFd1wmoco8/EK6vFY9T6H223WWcTFyA5A/view?utm_content=DAFd1wmoco8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+    },
+    {
+      "title": "Breast Owners Guide",
+      "category": "canva",
+      "source_url": "https://www.canva.com/design/DAFnODK9EXE/yVzo2kbOjkPYBqpIkWzzmg/view?utm_content=DAFnODK9EXE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+      "status": "working",
+      "status_code": 200,
+      "final_url": "https://www.canva.com/design/DAFnODK9EXE/yVzo2kbOjkPYBqpIkWzzmg/view?utm_content=DAFnODK9EXE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+    },
+    {
+      "title": "Real Health MD Cookbook",
+      "category": "drive",
+      "source_url": "https://drive.google.com/file/d/1kwpILY9k3pJiK2XD9dgHn55oV9F3zxgt/view?usp=sharing",
+      "status": "working",
+      "status_code": 200,
+      "final_url": "https://drive.google.com/file/d/1kwpILY9k3pJiK2XD9dgHn55oV9F3zxgt/view?usp=sharing"
+    },
+    {
+      "title": "Safe Supplements",
+      "category": "drive",
+      "source_url": "https://drive.google.com/file/d/16lTZIONCdw2oKFmduifYm6W-k2wxjdhK/view?usp=sharing",
+      "status": "working",
+      "status_code": 200,
+      "final_url": "https://drive.google.com/file/d/16lTZIONCdw2oKFmduifYm6W-k2wxjdhK/view?usp=sharing"
+    },
+    {
+      "title": "Sleep Guide",
+      "category": "drive",
+      "source_url": "https://drive.google.com/file/d/1OJWiOURTLGKsPgUDYX6GUy3D3t5HTNf0/view?usp=sharing",
+      "status": "working",
+      "status_code": 200,
+      "final_url": "https://drive.google.com/file/d/1OJWiOURTLGKsPgUDYX6GUy3D3t5HTNf0/view?usp=sharing"
+    },
+    {
+      "title": "Guide to Using Your CGM",
+      "category": "canva",
+      "source_url": "https://www.canva.com/design/DAGEfuNuREQ/Wo9-ZWOiZW5aA4wF68qB8w/view?utm_content=DAGEfuNuREQ&utm_campaign=designshare&utm_medium=link&utm_source=editor",
+      "status": "working",
+      "status_code": 200,
+      "final_url": "https://www.canva.com/design/DAGEfuNuREQ/Wo9-ZWOiZW5aA4wF68qB8w/view?utm_content=DAGEfuNuREQ&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+    },
+    {
+      "title": "Questions to Ask Your Provider",
+      "category": "canva",
+      "source_url": "https://www.canva.com/design/DAGEfqGOP4U/WYW3ORJgQPWs4bi2vf_jxQ/view?utm_content=DAGEfqGOP4U&utm_campaign=designshare&utm_medium=link&utm_source=editor",
+      "status": "working",
+      "status_code": 200,
+      "final_url": "https://www.canva.com/design/DAGEfqGOP4U/WYW3ORJgQPWs4bi2vf_jxQ/view?utm_content=DAGEfqGOP4U&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+    },
+    {
+      "title": "Initial Lab Values",
+      "category": "canva",
+      "source_url": "https://www.canva.com/design/DAGEfnR7uoQ/mHhsUZsX0gm8oyDg_5D0Nw/view?utm_content=DAGEfnR7uoQ&utm_campaign=designshare&utm_medium=link&utm_source=editor",
+      "status": "working",
+      "status_code": 200,
+      "final_url": "https://www.canva.com/design/DAGEfnR7uoQ/mHhsUZsX0gm8oyDg_5D0Nw/view?utm_content=DAGEfnR7uoQ&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+    },
+    {
+      "title": "MRI Protocol",
+      "category": "shop",
+      "source_url": "https://shop.realhealthmd.com/mri-with-contrast-protection-protocol.html",
+      "status": "working",
+      "status_code": 200,
+      "final_url": "https://shop.realhealthmd.com/realhealth-bundle012.html"
+    },
+    {
+      "title": "Dr. Jenn's Favorite Products",
+      "category": "affiliate",
+      "source_url": "https://www.amazon.com/shop/drjennsimmons",
+      "status": "working",
+      "status_code": 200,
+      "final_url": "https://www.amazon.com/shop/drjennsimmons"
+    },
+    {
+      "title": "Oura Ring",
+      "category": "affiliate",
+      "source_url": "https://spl.it/3U2XVa",
+      "status": "working",
+      "status_code": 200,
+      "final_url": "https://ouraring.com/"
+    },
+    {
+      "title": "Prolon",
+      "category": "affiliate",
+      "source_url": "https://spl.it/8l5xjT",
+      "status": "working",
+      "status_code": 200,
+      "final_url": "https://spl.it/8l5xjT"
+    },
+    {
+      "title": "EWG",
+      "category": "reference",
+      "source_url": "https://ewg.org/tapwater",
+      "status": "working",
+      "status_code": 200,
+      "final_url": "http://www.ewg.org/tapwater/"
+    },
+    {
+      "title": "Sunlighten Sauna",
+      "category": "affiliate",
+      "source_url": "https://get.sunlighten.com/elq9tbu6e7x2",
+      "status": "working",
+      "status_code": 200,
+      "final_url": "https://www.sunlighten.com/partner-savings/?utm_medium=Partner&utm_source=jennsimmons7649&utm_campaign=PartnerStack&pscd=get.sunlighten.com&ps_partner_key=amVubnNpbW1vbnM3NjQ5&ps_xid=EUmqAPSwUWWrDB&gsxid=EUmqAPSwUWWrDB&gspk=amVubnNpbW1vbnM3NjQ5"
+    },
+    {
+      "title": "Higher Dose Blanket",
+      "category": "affiliate",
+      "source_url": "https://spl.it/rmIKOe",
+      "status": "working",
+      "status_code": 200,
+      "final_url": "https://awin1.com/closedMerchant.html?b=1336029&u=3362549&m=87497&urllink=&afftrack=&originalPath=%2Fr.cfm&source=sas-click"
+    },
+    {
+      "title": "Pelvic Floor Store",
+      "category": "affiliate",
+      "source_url": "https://pelvicfloorstore.com/",
+      "status": "working",
+      "status_code": 200,
+      "final_url": "https://pelvicfloorstore.com/"
+    },
+    {
+      "title": "Magnesium Breakthrough",
+      "category": "affiliate",
+      "source_url": "https://spl.it/R6waYV",
+      "status": "working",
+      "status_code": 200,
+      "final_url": "https://spl.it/R6waYV"
+    }
+  ],
+  "broken_links": [
+    {
+      "title": "Daily Eight",
+      "category": "canva",
+      "source_url": "https://www.canva.com/design/DAFcJc8Pwew/P-gJgMTlVpdG5_9aeKnSrg/view?utm_content=DAFcJc8Pwew&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+      "status": "broken",
+      "status_code": 404,
+      "final_url": "https://www.canva.com/design/DAFcJc8Pwew/P-gJgMTlVpdG5_9aeKnSrg/view?utm_content=DAFcJc8Pwew&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+    },
+    {
+      "title": "Radiation Protocol",
+      "category": "shop",
+      "source_url": "https://shop.realhealthmd.com/radiation-protection-protocol-1.html",
+      "status": "broken",
+      "status_code": 404,
+      "final_url": "https://shop.realhealthmd.com/radiation-protection-protocol-1.html"
+    },
+    {
+      "title": "Coffee: My Organo Gold",
+      "category": "affiliate",
+      "source_url": "https://drjennsimmons.myorganogold.com/",
+      "status": "broken",
+      "status_code": 403,
+      "final_url": "https://drjennsimmons.myorganogold.com/"
+    },
+    {
+      "title": "BeautyCounter",
+      "category": "affiliate",
+      "source_url": "https://tinyurl.com/drjennbeautycounter",
+      "status": "broken",
+      "status_code": 404,
+      "final_url": "https://www.counter.com/jennifersimmons1?goto=/"
+    },
+    {
+      "title": "Credo Beauty",
+      "category": "affiliate",
+      "source_url": "https://spl.it/tIfGZ1",
+      "status": "broken",
+      "status_code": 403,
+      "final_url": "https://credobeauty.com/?utm_source=google&utm_medium=cpc&utm_campaign=Brand_CredoBeautyTerms&gclid=CjwKCAjw8symBhAqEiwAaTA__NND78FM8m8Cay572I4zd-71lOkQ8wZw5xUie5YEa-CRtfUETqVdkhoCZZwQAvD_BwE"
+    },
+    {
+      "title": "BeU by Organo",
+      "category": "affiliate",
+      "source_url": "https://drjennsimmons.myorganogold.com/",
+      "status": "broken",
+      "status_code": 403,
+      "final_url": "https://drjennsimmons.myorganogold.com/"
+    },
+    {
+      "title": "Primal Life Organics Dental Detox Program",
+      "category": "affiliate",
+      "source_url": "http://tinyurl.com/DrJennprimal",
+      "status": "broken",
+      "status_code": 403,
+      "final_url": "https://www.idevaffiliate.com/32863/1444.html"
+    },
+    {
+      "title": "The Air Doctor",
+      "category": "affiliate",
+      "source_url": "https://spl.it/QWIf2i",
+      "status": "broken",
+      "status_code": 429,
+      "final_url": "https://airdoctorpro.com/"
+    },
+    {
+      "title": "Queen of Thrones Castor Oil Packs",
+      "category": "affiliate",
+      "source_url": "https://shop.queenofthethrones.com/drjennsimmons",
+      "status": "broken",
+      "status_code": 404,
+      "final_url": "https://shop.queenofthethrones.com/drjennsimmons"
+    }
+  ],
+  "missing_unlinked_resources": [
+    {
+      "title": "RO-verse Osmosis System",
+      "category": "missing",
+      "note": "Mentioned in doc but no hyperlink was provided."
+    },
+    {
+      "title": "Berkey Water Filtration System",
+      "category": "missing",
+      "note": "Mentioned in doc but no hyperlink was provided."
+    },
+    {
+      "title": "Buffalo Tallow Soap (no fragrances)",
+      "category": "missing",
+      "note": "Mentioned in doc but no hyperlink was provided."
+    },
+    {
+      "title": "Sun and Moo Co.",
+      "category": "missing",
+      "note": "Mentioned in doc but no hyperlink was provided."
+    },
+    {
+      "title": "Fifty Ten Farms",
+      "category": "missing",
+      "note": "Mentioned in doc but no hyperlink was provided."
+    },
+    {
+      "title": "Think Dirty App",
+      "category": "missing",
+      "note": "Mentioned in doc but no hyperlink was provided."
+    }
+  ]
+}
